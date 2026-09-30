@@ -1,46 +1,85 @@
-## Building in public
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=000000&text=Iky&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Sistem%20Information%20(cyber%20security%20on%20going)&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=dzcknf">
+    <img src="https://komarev.com/ghpvc/?username=dzcknf&label=Profile%20views&color=00FFFF&style=flat-square" alt="dzcknf's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- Halo i'm dzaky.
+- Your good partner
+- i'm a newborn for this thing, but  i'm commit to be a "good" programmer.
+- I'm currently learing web programing
+- But i looking to collaborate with cyber security people
+- I'm kind.
+
+
+## 🧠 My Focus Areas
+- Web Development
+- cyber Security
+- Digital Forensics
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/dzcknf">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dzcknf&cache_seconds=7200&layout=compact&theme=dark&bg_color=000000&border_radius=10" alt="dzcknf's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=dzcknf&theme=dark&background=000000&hide_border=true&cache_seconds=86400" alt="dzcknf's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=dzcknf&theme=dark&bg_color=000000&margin-w=4&cache_seconds=86400" alt="Iky's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dzcknf&theme=dark&bg_color=000000&radius=10" alt="dzcknf's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dzcknf">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzcknf&langs_count=8&layout=compact&theme=dark&bg_color=000000&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="mailto:dzack.nf@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Iky's Email"/></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-
-# IkyDoingAnything
-
-> Technical founder
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=dzcknf&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F202373544%3Fu%3Df6d6bc477eb60d82507978179ff742b0cb5bc122%26v%3D4" alt="dzcknf hero visual" />
-</p>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
-## The point of view
-
-> Hi, ima casual student from a random city.. And i commit to be a &quot;good&quot; programmer.
-
-- 👥 **0** followers · **1** following
-
-*Small, useful work over vague claims.*
-
-## Products and proof
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/dzcknf/dzcknf">dzcknf</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/dzcknf/monkey-expression">monkey-expression</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/dzcknf/photokita-blur">photokita-blur</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/dzcknf/foto-kita-blur">foto-kita-blur</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-</table>
-
-## Momentum
-
-<table>
-<tr><td align="center"><b>4</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>6</b><br/><sub>contributions</sub></td></tr>
-</table>
-
-## Start a conversation
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=dzcknf&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F202373544%3Fu%3Df6d6bc477eb60d82507978179ff742b0cb5bc122%26v%3D4" alt="dzcknf social visual" />
-</p>
-
-<a href="https://github.com/dzcknf">GitHub</a>
-
-<p align="center"><sub>IkyDoingAnything · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
