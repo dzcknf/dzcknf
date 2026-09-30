@@ -9,7 +9,7 @@
 ## 📌 About Me
 - Halo i'm dzaky.
 - Your good partner
-- i'm a newborn for this thing, but  i'm commit to be a "good" programmer.
+- i'm a newborn for this thing, but  i commit to be a "good" programmer.
 - I'm currently learing web programing
 - But i looking to collaborate with cyber security people
 - I'm kind.
