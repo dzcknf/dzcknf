@@ -7,7 +7,7 @@
 </p>
 
 ## 📌 About Me
-- Halo i'm dzaky.
+- Halo i'm Iky.
 - Your good partner
 - i'm a newborn for this thing, but  i commit to be a "good" programmer.
 - I'm currently learing web programing
